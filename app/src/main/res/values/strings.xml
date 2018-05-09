@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Learn Geography</string>
+    <string name="title_activity_detail">Detail</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_geomatics">Geomatics</string>
+    <string name="title_activity_orology">Orology</string>
+    <string name="title_activity_biogeography">Biogeography</string>
+    <string name="title_activity_geomophology">Geomophology</string>
+    <string name="title_activity_pedology">Pedology</string>
+    <string name="title_activity_lithology">Lithology</string>
+    <string name="title_activity_potamology">Potamology</string>
+    <string name="title_activity_hydrology">Hydrology</string>
+    <string name="title_activity_climatology">Climatology</string>
+    <string name="title_activity_oceanography">Oceanography</string>
+
+    <string name="RocksIntro">
+     <![CDATA[
+        <strong>Lithology </strong> is the study of rocks.<br/><br/>
+        A <strong>Rock </strong> is a natural occuring solid cohesive aggregate of one or more mineral or mineral materials<br/>
+        Rocks can be devided into 3 major types based on the process of their formation<br/>
+        These are:<br />
+        <strong>Igneous Rocks</strong> - formed through the solidification and cooling of magma in Volcanic areas. they are coined from
+        word <em>ignis</em> meaning fire hence they are indicators of volcanism  <br/>
+        <strong>Sedimentary rocks</strong> - formed by low temperature accumullation of sediments in tectonic basins and topographical
+        sinks<br />
+        <strong>metamophic rocks</strong>  - formed at great depths but exposed to the surface due to erosion and epirogenic movements.<br />
+
+        These Rocks can also be further classified interms of chemistry  e.t.c…
+    ]]>
+
+
+
+
+    </string>
+    <string name="title_activity_more_info">moreInfo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_more">more</string>
+</resources>

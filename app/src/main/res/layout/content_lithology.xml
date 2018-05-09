@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.austinegwa64.learngeography.Lithology"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp"
+    tools:showIn="@layout/activity_lithology">
+
+
+    <TextView
+        android:id="@+id/rockTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/title"
+        android:text="Introduction" />
+
+    <TextView
+        android:id="@+id/rockIntro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        style="@style/description" />
+
+    <Button
+        android:id="@+id/more"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="READ MORE"/>
+
+
+</LinearLayout>
+</ScrollView>
